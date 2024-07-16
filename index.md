@@ -5,3 +5,5 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] learn how to use github
+- [ ] master python
